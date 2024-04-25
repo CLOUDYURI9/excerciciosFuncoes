@@ -1,6 +1,7 @@
 /*
 Exercício 2
 Crie uma função que receba 3 números como parâmetro e retorne o MENOR dentre eles.
+Nome: Yuri Dinato da Silva
 */
 
 const teclado = require(`prompt-sync`)();
