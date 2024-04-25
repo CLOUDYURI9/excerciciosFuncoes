@@ -2,6 +2,7 @@
 Desafio 1
 Crie uma função que liste todos os números primos até 1000.
 Número primo é aquele que é divisível somente por 1 e por ele mesmo.
+Nome: Yuri Dinato da Silva
 */
 
 function primo(n: number, divisor: number = 2): boolean {
